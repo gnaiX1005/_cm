@@ -1,13 +1,5 @@
-# 🧮 計算數學：課程作業實作集
-
-本專案收錄了計算數學課程的所有程式練習，透過 Python 驗證數學概念並解決計算問題。
-
----
-
-## 📂 作業清單與說明
-
 ### # 習題 1 : 請用程式驗證微積分基本定理
-[習題一](https://github.com/gnaiX1005/_cm/blob/main/homework/ftc.py) | [詳細說明](homework/hw1/README.md)
+[習題一](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%BF%92%E9%A1%8C%E4%B8%80.py) | [AI](homework/hw1/README.md)
 設定一個非常小的數來模擬極小變化量。先對函數做積分算出面積，再對結果做微分，觀察最後是否會變回原來的函數，以此驗證微積分的核心定理。
 
 
@@ -62,4 +54,5 @@
 
 ---
 [AI 輔助整理與說明](https://g.co/gemini/share/eb6140e0d0bf)
+
 
