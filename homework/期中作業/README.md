@@ -1,5 +1,5 @@
 ##程式說明
-本程式藉由 **[AI]https://gemini.google.com/share/7f8f25c16fe7** 輔助設計，主要用於展示密碼學中非對稱加密的數學核心邏輯。
+本程式藉由 **[AI](https://gemini.google.com/share/7f8f25c16fe7)** 輔助設計，主要用於展示密碼學中非對稱加密的數學核心邏輯。
 
 ---
 
@@ -32,4 +32,5 @@ RSA 的安全性建立在**大數分解的困難性**：
 ciphertext = pow(message, e, n)
 # 解密範例
 decrypted_msg = pow(ciphertext, d, n)
+
 
