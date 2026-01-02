@@ -1,11 +1,5 @@
-# 🔐 微型 RSA 密碼學實作 (Mini-RSA Implementation)
-
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Topic](https://img.shields.io/badge/Topic-Cryptography-orange)
-
-## 🛠 本程式開發說明
-本程式由 **[Gemini AI](https://g.co/gemini/share/eb6140e0d0bf)** 輔助設計，主要用於展示密碼學中非對稱加密的數學核心邏輯。
+##程式說明
+本程式藉由 **[AI]https://gemini.google.com/share/7f8f25c16fe7** 輔助設計，主要用於展示密碼學中非對稱加密的數學核心邏輯。
 
 ---
 
@@ -38,3 +32,4 @@ RSA 的安全性建立在**大數分解的困難性**：
 ciphertext = pow(message, e, n)
 # 解密範例
 decrypted_msg = pow(ciphertext, d, n)
+
