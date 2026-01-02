@@ -19,31 +19,32 @@
 探討數學理論中「五次以上方程式沒有公式解」的現象。在無法使用固定公式的情況下，改用電腦的數值模擬方法來求出近似答案。
 
 ### # 第二週習題
-[第二週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC%E4%BA%8C%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://github.com/gnaiX1005/_cm/blob/main/homework/week2/README.md)
+[第二週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC%E4%BA%8C%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://chatgpt.com/share/692e9202-21e8-800b-ab01-10181d8411fc)
 在一個數字有限的小世界（GF5）裡，重新定義加減乘除，並檢查這些運算是否依然符合數學上的分配律與交換律。
 
 ### # 第三週習題
-[第三週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC%E4%B8%89%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://github.com/gnaiX1005/_cm/tree/main/homework/week3)
+[第三週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC%E4%B8%89%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://gemini.google.com/share/bfcffc87850d)
 建立一套幾何工具，用來計算直線與圓、或圓與圓之間的交點位置，並練習如何用程式讓點進行平移、縮放與旋轉變換。
 
 ### # 第八週習題
-第八週習題| [AI](https://github.com/ccc114a/_cm/issues/8)
+第八週習題| [AI](https://gemini.google.com/share/6a20f6e31216)
 研究數據檢定背後的數學原理，透過程式模擬來觀察大量隨機樣本在重複實驗下所呈現出的規律與分佈。
 
 ### # 第九週習題
-[第九週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC%E4%B9%9D%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://github.com/gnaiX1005/_cm/tree/main/homework/week9)
+[第九週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC%E4%B9%9D%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://gemini.google.com/share/42d01bf09317)
 計算資料的亂度（熵），並實作「漢明碼」編碼，讓訊息在傳輸出錯時能自動修復，並探討通訊頻道傳輸量極限。
 
 ### # 第十週習題
-[第十週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC%E5%8D%81%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://github.com/gnaiX1005/_cm/blob/main/homework/week10/README.md)
+[第十週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC%E5%8D%81%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://gemini.google.com/share/923ffc6f7770)
 實作矩陣的基本運算，包含空間體積的縮放（行列式）與特徵值分析，並探討矩陣如何代表縮放、旋轉等幾何變換。
 
 ### # 第十一週習題
-[第十一週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC11%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://github.com/gnaiX1005/_cm/tree/main/homework/week11)
+[第十一週習題](https://github.com/gnaiX1005/_cm/blob/main/homework/%E7%AC%AC11%E5%91%A8%E7%BF%92%E9%A1%8C.py) | [AI](https://gemini.google.com/share/25744a2a1bd1)
 將訊號在時間與頻率之間切換。程式會驗證「轉過去再轉回來」後，訊號是否依然保持完整，以此確認轉換的可逆性質。
 
 ### # 第十三週習題
-[第十三週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC13%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://github.com/gnaiX1005/_cm/blob/main/homework/week13/README.md)
+[第十三週習題](https://github.com/gnaiX1005/_cm/tree/main/homework/%E7%AC%AC13%E5%91%A8%E7%BF%92%E9%A1%8C) | [AI](https://gemini.google.com/share/ddf2b4b9c225)
 根據方程式的係數特徵，自動判斷它是屬於哪種數學類型（如重根或複數根），並依照數學規律組合成最終的通用解答。
+
 
 
